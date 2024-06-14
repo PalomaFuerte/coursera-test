@@ -6,6 +6,13 @@ h1 {
 	margin-bottom: 15px;
 }
 
+div#container {
+	background-color: #6600B6;
+	position: relative;
+	width: 90%;
+	height: 200px;
+}
+
 p {
 	width: 90%;
 	height: 200px;
@@ -19,6 +26,9 @@ p {
 	width: 50px;
 	height: 30px;
 	background-color: #C20006;
+	position: absolute;
+	top: 0px;
+	right: 0px;
 }
 
 .row {
