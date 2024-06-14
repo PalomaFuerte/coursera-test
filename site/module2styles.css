@@ -19,8 +19,7 @@ div#container {
 div#item1 {
 	background-color:green;
 	position: absolute;
-	top: 0px;
-	right: 0 px;
+	float:left;
 	width: 70px;
 	height: 30px;
 }
